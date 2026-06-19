@@ -7,12 +7,13 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 
 # Progress Tracker
 
-| Day | Problem No. | Problem Name   | Difficulty |Status      |
-| --- | ----------- | -------------- | ---------- |------------|
-| 1   | 268         | Missing Number | Easy       |✅ Completed|
-| 2   | 258         | Add Digits     | Easy       |✅ Completed|
-| 3   | 507         | Perfect Number | Easy       |✅ Completed|
-| 4   | 9           | Palindrome Number | Easy    |✅ Completed|
+| Day | Problem No. | Problem Name              | Difficulty |Status      |
+| --- | ----------- | --------------            | ---------- |------------|
+| 1   | 268         | Missing Number            | Easy       |✅ Completed|
+| 2   | 258         | Add Digits                | Easy       |✅ Completed|
+| 3   | 507         | Perfect Number            | Easy       |✅ Completed|
+| 4   | 9           | Palindrome Number         | Easy       |✅ Completed|
+| 5   | 367         | Valid Perfect Square      | Easy       |✅ Completed|
 
 ## Total Progress
 
