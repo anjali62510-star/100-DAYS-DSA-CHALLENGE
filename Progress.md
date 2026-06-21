@@ -15,11 +15,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 4   | 9           | Palindrome Number         | Easy       |✅ Completed|
 | 5   | 367         | Valid Perfect Square      | Easy       |✅ Completed|
 | 6   | 202         | Happy Number              | Easy       |✅ Completed|
+| 7   |66           | Plus One                  | Easy       |✅ Completed|
 
 ## Total Progress
 
-* Problems Solved: 6/100
-* Current Streak: 6 Days 🔥
+* Problems Solved: 7/100
+* Current Streak: 7 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
