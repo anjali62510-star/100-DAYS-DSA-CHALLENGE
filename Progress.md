@@ -17,11 +17,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 6   | 202         | Happy Number              | Easy       |✅ Completed|
 | 7   |66           | Plus One                  | Easy       |✅ Completed|
 | 8 | 171 | Excel Sheet Column Number | Easy | ✅ Completed |
+| 9 | 7 | Reverse Integer | Medium | ✅ Completed |
 
 ## Total Progress
 
-* Problems Solved: 8/100
-* Current Streak: 8 Days 🔥
+* Problems Solved: 9/100
+* Current Streak: 9 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
