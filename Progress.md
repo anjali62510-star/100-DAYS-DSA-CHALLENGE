@@ -19,11 +19,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 8 | 171 | Excel Sheet Column Number | Easy | ✅ Completed |
 | 9 | 7 | Reverse Integer | Medium | ✅ Completed |
 | 10 | 1523 | Count Odd Numbers in an Interval Range | Easy | ✅ Completed |
+| 11 | 1 | Two Sum | Easy | ✅ Completed |
 
 ## Total Progress
 
-* Problems Solved: 10/100
-* Current Streak: 10 Days 🔥
+* Problems Solved: 11/100
+* Current Streak: 11 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
