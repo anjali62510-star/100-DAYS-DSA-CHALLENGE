@@ -20,11 +20,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 9 | 7 | Reverse Integer | Medium | ✅ Completed |
 | 10 | 1523 | Count Odd Numbers in an Interval Range | Easy | ✅ Completed |
 | 11 | 1 | Two Sum | Easy | ✅ Completed |
+| 12 | 217 | Contains Duplicate | Easy | ✅ Completed |
 
 ## Total Progress
 
-* Problems Solved: 11/100
-* Current Streak: 11 Days 🔥
+* Problems Solved: 12/100
+* Current Streak: 12 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
