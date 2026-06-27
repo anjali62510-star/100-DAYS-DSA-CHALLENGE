@@ -21,11 +21,13 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 10 | 1523 | Count Odd Numbers in an Interval Range | Easy | ✅ Completed |
 | 11 | 1 | Two Sum | Easy | ✅ Completed |
 | 12 | 217 | Contains Duplicate | Easy | ✅ Completed |
+| 13 | 121 | Best Time to Buy and Sell Stock | Easy | ✅ Completed |
+
 
 ## Total Progress
 
-* Problems Solved: 12/100
-* Current Streak: 12 Days 🔥
+* Problems Solved: 13/100
+* Current Streak: 13 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
