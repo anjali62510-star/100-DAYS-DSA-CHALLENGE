@@ -22,12 +22,13 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 11 | 1 | Two Sum | Easy | ✅ Completed |
 | 12 | 217 | Contains Duplicate | Easy | ✅ Completed |
 | 13 | 121 | Best Time to Buy and Sell Stock | Easy | ✅ Completed |
-
+| 14 | 1979 | Find Greatest Common Divisor of Array | Easy | ✅ Completed |
+| 15 | 119 | Pascal's Triangle II | Easy | ✅ Completed |
 
 ## Total Progress
 
-* Problems Solved: 13/100
-* Current Streak: 13 Days 🔥
+* Problems Solved: 15/100
+* Current Streak: 15 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
