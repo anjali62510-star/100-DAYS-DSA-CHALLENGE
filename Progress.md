@@ -25,11 +25,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 14 | 1979 | Find Greatest Common Divisor of Array | Easy | ✅ Completed |
 | 15 | 119 | Pascal's Triangle II | Easy | ✅ Completed |
 | 16 | 169 | Majority Element | Easy | ✅ Completed |
+| 17 | 35 | Search Insert Position | Easy | ✅ Completed |
 
 ## Total Progress
 
-* Problems Solved: 16/100
-* Current Streak: 16 Days 🔥
+* Problems Solved: 17/100
+* Current Streak: 17 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
