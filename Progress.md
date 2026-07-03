@@ -30,6 +30,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 16  | 169         | Majority Element          |Easy        |✅ Completed|
 | 17  | 35          | Search Insert Position    | Easy       |✅ Completed|
 | 18  | 283         | Move Zeroes               | Easy       |✅ Completed|
+| 19  | 189         | Rotate Array              | Medium     |✅ Completed|
 
 ## Total Progress
 
