@@ -31,11 +31,14 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 17  | 35          | Search Insert Position    | Easy       |✅ Completed|
 | 18  | 283         | Move Zeroes               | Easy       |✅ Completed|
 | 19  | 189         | Rotate Array              | Medium     |✅ Completed|
+| 20  | 34          | Find First and Last       | Medium     |✅ Completed|
+                    | Position of Element in    |
+                    | Sorted Array              |
 
 ## Total Progress
 
-* Problems Solved: 18/100
-* Current Streak: 18 Days 🔥
+* Problems Solved: 20/100
+* Current Streak: 20 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
