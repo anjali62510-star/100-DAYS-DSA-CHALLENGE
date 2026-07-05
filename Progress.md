@@ -34,11 +34,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 20  | 34          | Find First and Last       | Medium     |✅ Completed|
                     | Position of Element in    |
                     | Sorted Array              |
+| 21  | 53          | Maximum Subarray          | Medium     |✅ Completed|                    
 
 ## Total Progress
 
-* Problems Solved: 20/100
-* Current Streak: 20 Days 🔥
+* Problems Solved: 21/100
+* Current Streak: 21 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
