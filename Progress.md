@@ -37,11 +37,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 21  | 53          | Maximum Subarray          | Medium     |✅ Completed|       
 | 22  | 215         |Kth Largest Element in an  | Medium     |✅ Completed|             
                     | Array                     |
+| 23  | 287         |Find the Duplicate Number  | Medium     |✅ Completed|                    
 
 ## Total Progress
 
-* Problems Solved: 22/100
-* Current Streak: 22 Days 🔥
+* Problems Solved: 23/100
+* Current Streak: 23 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
