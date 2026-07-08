@@ -35,14 +35,16 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
                     | Position of Element in    |
                     | Sorted Array              |
 | 21  | 53          | Maximum Subarray          | Medium     |✅ Completed|       
-| 22  | 215         |Kth Largest Element in an  | Medium     |✅ Completed|             
+| 22  | 215         | Kth Largest Element in an | Medium     |✅ Completed|             
                     | Array                     |
-| 23  | 287         |Find the Duplicate Number  | Medium     |✅ Completed|                    
+| 23  | 287         | Find the Duplicate Number | Medium     |✅ Completed|   
+| 24  | 2470        | Number of Subarrays With  | Medium     |✅ Completed|
+                    | LCM Equal to K            |                  
 
 ## Total Progress
 
-* Problems Solved: 23/100
-* Current Streak: 23 Days 🔥
+* Problems Solved: 24/100
+* Current Streak: 24 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
