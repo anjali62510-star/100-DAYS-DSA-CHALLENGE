@@ -40,11 +40,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 23  | 287         | Find the Duplicate Number | Medium     |✅ Completed|   
 | 24  | 2470        | Number of Subarrays With  | Medium     |✅ Completed|
                     | LCM Equal to K            |                  
+| 25  | 88          | Merge Sorted Array        | Easy       |✅ Completed|
 
 ## Total Progress
 
-* Problems Solved: 24/100
-* Current Streak: 24 Days 🔥
+* Problems Solved: 25/100
+* Current Streak: 25 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
