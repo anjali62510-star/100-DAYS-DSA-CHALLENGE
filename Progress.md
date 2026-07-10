@@ -41,11 +41,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 24  | 2470        | Number of Subarrays With  | Medium     |✅ Completed|
                     | LCM Equal to K            |                  
 | 25  | 88          | Merge Sorted Array        | Easy       |✅ Completed|
+| 26  | 58          | Length of Last Word       | Easy       |✅ Completed|
 
 ## Total Progress
 
-* Problems Solved: 25/100
-* Current Streak: 25 Days 🔥
+* Problems Solved: 26/100
+* Current Streak: 26 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
