@@ -42,6 +42,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
                     | LCM Equal to K            |                  
 | 25  | 88          | Merge Sorted Array        | Easy       |✅ Completed|
 | 26  | 58          | Length of Last Word       | Easy       |✅ Completed|
+| 27 | 434 | Number of Segments in a String | Easy | ✅ Completed |
 
 ## Total Progress
 
