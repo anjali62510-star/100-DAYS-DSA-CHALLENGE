@@ -46,15 +46,17 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
                     | String                    | 
 | 28  | 345         | Reverse Vowels of a       | Easy       |✅ Completed|
                     | String                    |
-| 29 | 2108 | Find First Palindromic String in the Array | Easy | ✅ Completed |
+| 29  | 2108        | Find First Palindromic    | Easy       |✅ Completed|
+                    |  String in the Array      | 
+| 30 | 125 | Valid Palindrome | Easy | ✅ Completed |                   
 
 
 
 
 ## Total Progress
 
-* Problems Solved: 29/100
-* Current Streak: 29 Days 🔥
+* Problems Solved: 30/100
+* Current Streak: 30 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
