@@ -49,15 +49,16 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 29  | 2108        | Find First Palindromic    | Easy       |✅ Completed|
                     |  String in the Array      | 
 | 30 | 125 | Valid Palindrome | Easy | ✅ Completed |          
-| 31 | 1047 | Remove All Adjacent Duplicates In String | Easy | ✅ Completed |         
+| 31 | 1047 | Remove All Adjacent Duplicates In String | Easy | ✅ Completed |     
+| 32 | 796 | Rotate String | Easy | ✅ Completed |    
 
 
 
 
 ## Total Progress
 
-* Problems Solved: 31/100
-* Current Streak: 31 Days 🔥
+* Problems Solved: 32/100
+* Current Streak: 32 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
