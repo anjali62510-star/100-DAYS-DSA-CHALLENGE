@@ -51,14 +51,15 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 30 | 125 | Valid Palindrome | Easy | ✅ Completed |          
 | 31 | 1047 | Remove All Adjacent Duplicates In String | Easy | ✅ Completed |     
 | 32 | 796 | Rotate String | Easy | ✅ Completed |    
+| 33 | 14 | Longest Common Prefix | Easy | ✅ Completed |
 
 
 
 
 ## Total Progress
 
-* Problems Solved: 32/100
-* Current Streak: 32 Days 🔥
+* Problems Solved: 33/100
+* Current Streak: 33 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
