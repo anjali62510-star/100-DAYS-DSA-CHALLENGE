@@ -48,18 +48,20 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
                     | String                    |
 | 29  | 2108        | Find First Palindromic    | Easy       |✅ Completed|
                     |  String in the Array      | 
-| 30 | 125 | Valid Palindrome | Easy | ✅ Completed |          
-| 31 | 1047 | Remove All Adjacent Duplicates In String | Easy | ✅ Completed |     
-| 32 | 796 | Rotate String | Easy | ✅ Completed |    
-| 33 | 14 | Longest Common Prefix | Easy | ✅ Completed |
+| 30 | 125          | Valid Palindrome          | Easy       |✅ Completed|          
+| 31 | 1047         | Remove All Adjacent       | Easy       |✅ Completed| 
+                    | Duplicates In String      |     
+| 32 | 796          | Rotate String             | Easy       |✅ Completed|    
+| 33 | 14           | Longest Common Prefix     | Easy       |✅ Completed|
+| 34 | 151 | Reverse Words in a String | Medium | ✅ Completed |
 
 
 
 
 ## Total Progress
 
-* Problems Solved: 33/100
-* Current Streak: 33 Days 🔥
+* Problems Solved: 34/100
+* Current Streak: 34 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
