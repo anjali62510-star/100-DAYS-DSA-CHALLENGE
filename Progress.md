@@ -55,14 +55,16 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 33 | 14           | Longest Common Prefix     | Easy       |✅ Completed|
 | 34 | 151 | Reverse Words in a String | Medium | ✅ Completed |
 | 35 | 6 | Zigzag Conversion | Medium | ✅ Completed |
+| 36 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | ✅ Completed |
+
 
 
 
 
 ## Total Progress
 
-* Problems Solved: 35/100
-* Current Streak: 35 Days 🔥
+* Problems Solved: 36/100
+* Current Streak: 36 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
