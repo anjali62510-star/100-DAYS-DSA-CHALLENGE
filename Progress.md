@@ -56,15 +56,15 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 34 | 151 | Reverse Words in a String | Medium | ✅ Completed |
 | 35 | 6 | Zigzag Conversion | Medium | ✅ Completed |
 | 36 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | ✅ Completed |
-
+| 37 | 1071 | Greatest Common Divisor of Strings | Easy | ✅ Completed |
 
 
 
 
 ## Total Progress
 
-* Problems Solved: 36/100
-* Current Streak: 36 Days 🔥
+* Problems Solved: 37/100
+* Current Streak: 37 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
