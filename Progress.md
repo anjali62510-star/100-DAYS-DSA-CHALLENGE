@@ -57,14 +57,15 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 35 | 6 | Zigzag Conversion | Medium | ✅ Completed |
 | 36 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | ✅ Completed |
 | 37 | 1071 | Greatest Common Divisor of Strings | Easy | ✅ Completed |
+| 38 | 2697 | Lexicographically Smallest Palindrome | Easy | ✅ Completed |
 
 
 
 
 ## Total Progress
 
-* Problems Solved: 37/100
-* Current Streak: 37 Days 🔥
+* Problems Solved: 38/100
+* Current Streak: 38 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
