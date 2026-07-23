@@ -58,14 +58,15 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 36 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | ✅ Completed |
 | 37 | 1071 | Greatest Common Divisor of Strings | Easy | ✅ Completed |
 | 38 | 2697 | Lexicographically Smallest Palindrome | Easy | ✅ Completed |
+| 39 | 28 | Find the Index of the First Occurrence in a String | Easy | ✅ Completed |
 
 
 
 
 ## Total Progress
 
-* Problems Solved: 38/100
-* Current Streak: 38 Days 🔥
+* Problems Solved: 39/100
+* Current Streak: 39 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
