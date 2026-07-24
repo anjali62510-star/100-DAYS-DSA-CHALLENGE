@@ -59,14 +59,14 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 37 | 1071 | Greatest Common Divisor of Strings | Easy | ✅ Completed |
 | 38 | 2697 | Lexicographically Smallest Palindrome | Easy | ✅ Completed |
 | 39 | 28 | Find the Index of the First Occurrence in a String | Easy | ✅ Completed |
-
+| 40 | 242 | Valid Anagram | Easy | ✅ Completed |
 
 
 
 ## Total Progress
 
-* Problems Solved: 39/100
-* Current Streak: 39 Days 🔥
+* Problems Solved: 40/100
+* Current Streak: 40 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
