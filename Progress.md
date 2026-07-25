@@ -60,13 +60,13 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 38 | 2697 | Lexicographically Smallest Palindrome | Easy | ✅ Completed |
 | 39 | 28 | Find the Index of the First Occurrence in a String | Easy | ✅ Completed |
 | 40 | 242 | Valid Anagram | Easy | ✅ Completed |
-
+| 41 | 206 | Reverse Linked List | Easy | ✅ Completed |
 
 
 ## Total Progress
 
-* Problems Solved: 40/100
-* Current Streak: 40 Days 🔥
+* Problems Solved: 41/100
+* Current Streak: 41 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
