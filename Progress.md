@@ -55,20 +55,22 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 33 | 14           | Longest Common Prefix     | Easy       |✅ Completed|
 | 34 | 151          | Reverse Words in a String | Medium     |✅ Completed|
 | 35 | 6            | Zigzag Conversion         | Medium     |✅ Completed|
-| 36 | 1456         | Maximum Number of Vowels 
-in a Substring of Given Length | Medium | ✅ Completed |
-| 37 | 1071 | Greatest Common Divisor of Strings | Easy | ✅ Completed |
-| 38 | 2697 | Lexicographically Smallest Palindrome | Easy | ✅ Completed |
-| 39 | 28 | Find the Index of the First Occurrence in a String | Easy | ✅ Completed |
-| 40 | 242 | Valid Anagram | Easy | ✅ Completed |
-| 41 | 206 | Reverse Linked List | Easy | ✅ Completed |
-| 42 | 876 | Middle of the Linked List | Easy | ✅ Completed |
+| 36 | 1456         | Maximum Number of Vowels  | Medium     |✅ Completed|
+                    | in a Substring of Given 
+                    |  Length 
+| 37 | 1071         | Greatest Common Divisor of Strings | Easy | ✅ Completed |
+| 38 | 2697         | Lexicographically Smallest Palindrome | Easy | ✅ Completed |
+| 39 | 28           | Find the Index of the First Occurrence in a String | Easy | ✅ Completed |
+| 40 | 242          | Valid Anagram | Easy | ✅ Completed |
+| 41 | 206          | Reverse Linked List | Easy | ✅ Completed |
+| 42 | 876          | Middle of the Linked List | Easy | ✅ Completed |
+| 43 | 21 | Merge Two Sorted Lists | Easy | ✅ Completed |
 
 
 ## Total Progress
 
-* Problems Solved: 42/100
-* Current Streak: 42 Days 🔥
+* Problems Solved: 43/100
+* Current Streak: 43 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
