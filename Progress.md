@@ -67,11 +67,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 43 | 21 | Merge Two Sorted Lists | Easy | ✅ Completed |
 | 44 | 141 | Linked List Cycle | Easy | ✅ Completed |
 | 45 | 234 | Palindrome Linked List | Easy | ✅ Completed |
+| 46 | 203 | Remove Linked List Elements | Easy | ✅ Completed |
 
 ## Total Progress
 
-* Problems Solved: 45/100
-* Current Streak: 45 Days 🔥
+* Problems Solved: 46/100
+* Current Streak: 46 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
