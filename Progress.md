@@ -71,11 +71,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 47 | 61 | Rotate List | Medium | ✅ Completed |
 | 48 | 328 | Odd Even Linked List | Medium | ✅ Completed |
 | 49 | 1721 | Swapping Nodes in a Linked List | Medium | ✅ Completed |
+| 50 | 2095 | Delete the Middle Node of a Linked List | Medium | ✅ Completed |
 
 ## Total Progress
 
-* Problems Solved: 49/100
-* Current Streak: 49 Days 🔥
+* Problems Solved: 50/100
+* Current Streak: 50 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
