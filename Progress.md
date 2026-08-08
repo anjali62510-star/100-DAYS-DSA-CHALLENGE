@@ -75,11 +75,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 51 | 19 | Remove Nth Node From End of List | Medium | ✅ Completed |
 | 52 | 2 | Add Two Numbers | Medium | ✅ Completed |
 | 54 | 82 | Remove Duplicates from Sorted List II | Medium | ✅ Completed |
+| 55 | 237 | Delete Node in a Linked List | Medium | ✅ Completed |
 
 ## Total Progress
 
-* Problems Solved: 54/100
-* Current Streak: 54 Days 🔥
+* Problems Solved: 55/100
+* Current Streak: 55 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
