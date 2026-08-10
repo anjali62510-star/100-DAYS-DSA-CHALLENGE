@@ -77,11 +77,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 54 | 82 | Remove Duplicates from Sorted List II | Medium | ✅ Completed |
 | 55 | 237 | Delete Node in a Linked List | Medium | ✅ Completed |
 | 56 | 20 | Valid Parentheses | Easy | ✅ Completed |
+| 57 | 232 | Implement Queue using Stacks | Easy | ✅ Completed |
 
 ## Total Progress
 
-* Problems Solved: 56/100
-* Current Streak: 56 Days 🔥
+* Problems Solved: 57/100
+* Current Streak: 57 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
