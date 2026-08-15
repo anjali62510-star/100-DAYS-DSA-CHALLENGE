@@ -79,11 +79,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 56 | 20 | Valid Parentheses | Easy | ✅ Completed |
 | 57 | 232 | Implement Queue using Stacks | Easy | ✅ Completed |
 | 58 | 155 | Min Stack | Medium | ✅ Completed |
+| 59 | 150 | Evaluate Reverse Polish Notation | Medium | ✅ Completed |
 
 ## Total Progress
 
-* Problems Solved: 58/100
-* Current Streak: 58 Days 🔥
+* Problems Solved: 59/100
+* Current Streak: 59 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
