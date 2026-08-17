@@ -81,6 +81,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 58 | 155 | Min Stack | Medium | ✅ Completed |
 | 59 | 150 | Evaluate Reverse Polish Notation | Medium | ✅ Completed |
 | 60 | 678 | Valid Parenthesis String | Medium | ✅ Completed |
+| 61 | 1249 | Minimum Remove to Make Valid Parentheses | Medium | ✅ Completed |
 
 ## Total Progress
 
