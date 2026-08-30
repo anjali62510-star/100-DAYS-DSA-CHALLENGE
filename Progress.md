@@ -82,11 +82,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 59 | 150 | Evaluate Reverse Polish Notation | Medium | ✅ Completed |
 | 60 | 678 | Valid Parenthesis String | Medium | ✅ Completed |
 | 61 | 1249 | Minimum Remove to Make Valid Parentheses | Medium | ✅ Completed |
+| 62 | 32 | Longest Valid Parentheses | Hard | ✅ Completed |
 
 ## Total Progress
 
-* Problems Solved: 60/100
-* Current Streak: 60 Days 🔥
+* Problems Solved: 61/100
+* Current Streak: 61 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
