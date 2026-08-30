@@ -83,11 +83,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 60 | 678 | Valid Parenthesis String | Medium | ✅ Completed |
 | 61 | 1249 | Minimum Remove to Make Valid Parentheses | Medium | ✅ Completed |
 | 62 | 32 | Longest Valid Parentheses | Hard | ✅ Completed |
+| 63 | 224 | Basic Calculator | Hard | ✅ Completed |
 
 ## Total Progress
 
-* Problems Solved: 61/100
-* Current Streak: 61 Days 🔥
+* Problems Solved: 63/100
+* Current Streak: 63 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
