@@ -86,6 +86,8 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 62 | 32           | Longest Valid Parentheses | Hard | ✅ Completed |
 | 63 | 224          | Basic Calculator | Hard | ✅ Completed |
 | 64 | 225 | Implement Stack using Queues | Easy | ✅ Completed |
+| 65 | 622 | Design Circular Queue | Medium | ✅ Completed |
+| 66 | 94 | Binary Tree Inorder Traversal | Easy | ✅ Completed |
 
 ## Total Progress
 
