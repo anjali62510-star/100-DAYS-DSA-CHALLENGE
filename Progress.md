@@ -58,32 +58,34 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 36 | 1456         | Maximum Number of Vowels  | Medium     |✅ Completed|
                     | in a Substring of Given 
                     |  Length 
-| 37 | 1071         | Greatest Common Divisor of Strings | Easy | ✅ Completed |
+| 37 | 1071         | Greatest Common Divisor of| Easy       |✅ Completed|
+                    |  Strings                  |
 | 38 | 2697         | Lexicographically Smallest Palindrome | Easy | ✅ Completed |
 | 39 | 28           | Find the Index of the First Occurrence in a String | Easy | ✅ Completed |
 | 40 | 242          | Valid Anagram | Easy | ✅ Completed |
 | 41 | 206          | Reverse Linked List | Easy | ✅ Completed |
 | 42 | 876          | Middle of the Linked List | Easy | ✅ Completed |
-| 43 | 21 | Merge Two Sorted Lists | Easy | ✅ Completed |
-| 44 | 141 | Linked List Cycle | Easy | ✅ Completed |
-| 45 | 234 | Palindrome Linked List | Easy | ✅ Completed |
-| 46 | 203 | Remove Linked List Elements | Easy | ✅ Completed |
-| 47 | 61 | Rotate List | Medium | ✅ Completed |
-| 48 | 328 | Odd Even Linked List | Medium | ✅ Completed |
-| 49 | 1721 | Swapping Nodes in a Linked List | Medium | ✅ Completed |
-| 50 | 2095 | Delete the Middle Node of a Linked List | Medium | ✅ Completed |
-| 51 | 19 | Remove Nth Node From End of List | Medium | ✅ Completed |
-| 52 | 2 | Add Two Numbers | Medium | ✅ Completed |
-| 54 | 82 | Remove Duplicates from Sorted List II | Medium | ✅ Completed |
-| 55 | 237 | Delete Node in a Linked List | Medium | ✅ Completed |
-| 56 | 20 | Valid Parentheses | Easy | ✅ Completed |
-| 57 | 232 | Implement Queue using Stacks | Easy | ✅ Completed |
-| 58 | 155 | Min Stack | Medium | ✅ Completed |
-| 59 | 150 | Evaluate Reverse Polish Notation | Medium | ✅ Completed |
-| 60 | 678 | Valid Parenthesis String | Medium | ✅ Completed |
-| 61 | 1249 | Minimum Remove to Make Valid Parentheses | Medium | ✅ Completed |
-| 62 | 32 | Longest Valid Parentheses | Hard | ✅ Completed |
-| 63 | 224 | Basic Calculator | Hard | ✅ Completed |
+| 43 | 21           | Merge Two Sorted Lists | Easy | ✅ Completed |
+| 44 | 141          | Linked List Cycle | Easy | ✅ Completed |
+| 45 | 234          | Palindrome Linked List | Easy | ✅ Completed |
+| 46 | 203          | Remove Linked List Elements | Easy | ✅ Completed |
+| 47 | 61           | Rotate List | Medium | ✅ Completed |
+| 48 | 328          | Odd Even Linked List | Medium | ✅ Completed |
+| 49 | 1721         | Swapping Nodes in a Linked List | Medium | ✅ Completed |
+| 50 | 2095         | Delete the Middle Node of a Linked List | Medium | ✅ Completed |
+| 51 | 19           | Remove Nth Node From End of List | Medium | ✅ Completed |
+| 52 | 2            | Add Two Numbers | Medium | ✅ Completed |
+| 54 | 82           | Remove Duplicates from Sorted List II | Medium | ✅ Completed |
+| 55 | 237          | Delete Node in a Linked List | Medium | ✅ Completed |
+| 56 | 20           | Valid Parentheses | Easy | ✅ Completed |
+| 57 | 232          | Implement Queue using Stacks | Easy | ✅ Completed |
+| 58 | 155          | Min Stack | Medium | ✅ Completed |
+| 59 | 150          | Evaluate Reverse Polish Notation | Medium | ✅ Completed |
+| 60 | 678          | Valid Parenthesis String | Medium | ✅ Completed |
+| 61 | 1249         | Minimum Remove to Make Valid Parentheses | Medium | ✅ Completed |
+| 62 | 32           | Longest Valid Parentheses | Hard | ✅ Completed |
+| 63 | 224          | Basic Calculator | Hard | ✅ Completed |
+| 64 | 225 | Implement Stack using Queues | Easy | ✅ Completed |
 
 ## Total Progress
 
