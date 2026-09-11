@@ -89,7 +89,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 65 | 622          | Design Circular Queue | Medium | ✅ Completed |
 | 66 | 94           | Binary Tree Inorder Traversal | Easy | ✅ Completed |
 | 67 | 112 | Path Sum | Easy | ✅ Completed |
-
+| 68 | 111 | Minimum Depth of Binary Tree | Easy | ✅ Completed |
 
 ## Total Progress
 
