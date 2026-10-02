@@ -95,6 +95,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 71 | 104 | Maximum Depth of Binary Tree | Easy | ✅ Completed |
 | 72 | 102 | Binary Tree Level Order Traversal | Medium | ✅ Completed |
 | 73 | 199 | Binary Tree Right Side View | Medium | ✅ Completed |
+| 74 | 114 | Flatten Binary Tree to Linked List | Medium | ✅ Completed |
 
 ## Total Progress
 
