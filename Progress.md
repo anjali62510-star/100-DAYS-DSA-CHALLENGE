@@ -93,11 +93,12 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 69 | 404 | Sum of Left Leaves | Easy | ✅ Completed |
 | 70 | 543 | Diameter of Binary Tree | Easy | ✅ Completed |
 | 71 | 104 | Maximum Depth of Binary Tree | Easy | ✅ Completed |
+| 72 | 102 | Binary Tree Level Order Traversal | Medium | ✅ Completed |
 
 ## Total Progress
 
-* Problems Solved: 63/100
-* Current Streak: 63 Days 🔥
+* Problems Solved: 72/100
+* Current Streak: 72 Days 🔥
 * Language: C++
 * Challenge: Dr. G. Viswanathan's 100 Days DSA Challenge
 
