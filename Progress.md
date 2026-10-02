@@ -92,6 +92,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 68 | 111 | Minimum Depth of Binary Tree | Easy | ✅ Completed |
 | 69 | 404 | Sum of Left Leaves | Easy | ✅ Completed |
 | 70 | 543 | Diameter of Binary Tree | Easy | ✅ Completed |
+| 71 | 104 | Maximum Depth of Binary Tree | Easy | ✅ Completed |
 
 ## Total Progress
 
