@@ -94,6 +94,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 70 | 543 | Diameter of Binary Tree | Easy | ✅ Completed |
 | 71 | 104 | Maximum Depth of Binary Tree | Easy | ✅ Completed |
 | 72 | 102 | Binary Tree Level Order Traversal | Medium | ✅ Completed |
+| 73 | 199 | Binary Tree Right Side View | Medium | ✅ Completed |
 
 ## Total Progress
 
