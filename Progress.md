@@ -98,6 +98,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 74 | 114 | Flatten Binary Tree to Linked List | Medium | ✅ Completed |
 | 75 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | ✅ Completed |
 | 76 | 129 | Sum Root to Leaf Numbers | Medium | ✅ Completed |
+| 77 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | ✅ Completed |
 
 ## Total Progress
 
