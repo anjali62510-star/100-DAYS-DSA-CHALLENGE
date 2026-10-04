@@ -101,6 +101,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 77 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | ✅ Completed |
 | 78 | 226 | Invert Binary Tree | Easy | ✅ Completed |
 | 79 | 100 | Same Tree | Easy | ✅ Completed |
+| 80 | 101 | Symmetric Tree | Easy | ✅ Completed |
 
 ## Total Progress
 
