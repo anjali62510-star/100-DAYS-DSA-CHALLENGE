@@ -56,28 +56,37 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 34 | 151          | Reverse Words in a String | Medium     |✅ Completed|
 | 35 | 6            | Zigzag Conversion         | Medium     |✅ Completed|
 | 36 | 1456         | Maximum Number of Vowels  | Medium     |✅ Completed|
-                    | in a Substring of Given 
-                    |  Length 
+                    | in a Substring of Given   |
+                    |  Length                   |
 | 37 | 1071         | Greatest Common Divisor of| Easy       |✅ Completed|
                     |  Strings                  |
-| 38 | 2697         | Lexicographically Smallest Palindrome | Easy | ✅ Completed |
-| 39 | 28           | Find the Index of the First Occurrence in a String | Easy | ✅ Completed |
-| 40 | 242          | Valid Anagram | Easy | ✅ Completed |
-| 41 | 206          | Reverse Linked List | Easy | ✅ Completed |
-| 42 | 876          | Middle of the Linked List | Easy | ✅ Completed |
-| 43 | 21           | Merge Two Sorted Lists | Easy | ✅ Completed |
-| 44 | 141          | Linked List Cycle | Easy | ✅ Completed |
-| 45 | 234          | Palindrome Linked List | Easy | ✅ Completed |
-| 46 | 203          | Remove Linked List Elements | Easy | ✅ Completed |
-| 47 | 61           | Rotate List | Medium | ✅ Completed |
-| 48 | 328          | Odd Even Linked List | Medium | ✅ Completed |
-| 49 | 1721         | Swapping Nodes in a Linked List | Medium | ✅ Completed |
-| 50 | 2095         | Delete the Middle Node of a Linked List | Medium | ✅ Completed |
-| 51 | 19           | Remove Nth Node From End of List | Medium | ✅ Completed |
-| 52 | 2            | Add Two Numbers | Medium | ✅ Completed |
-| 54 | 82           | Remove Duplicates from Sorted List II | Medium | ✅ Completed |
-| 55 | 237          | Delete Node in a Linked List | Medium | ✅ Completed |
-| 56 | 20           | Valid Parentheses | Easy | ✅ Completed |
+| 38 | 2697         | Lexicographically Smallest| Easy       |✅ Completed| 
+                    |  Palindrome               |
+| 39 | 28           | Find the Index of the     | Easy       |✅ Completed|
+                    | First Occurrence in a     |
+                    | String                    |
+| 40 | 242          | Valid Anagram             | Easy       |✅ Completed|
+| 41 | 206          | Reverse Linked List       | Easy       |✅ Completed|
+| 42 | 876          | Middle of the Linked List | Easy       |✅ Completed|
+| 43 | 21           | Merge Two Sorted Lists    | Easy       |✅ Completed|
+| 44 | 141          | Linked List Cycle         | Easy       |✅ Completed|
+| 45 | 234          | Palindrome Linked List    | Easy       |✅ Completed|
+| 46 | 203          | Remove Linked List        | Easy       |✅ Completed|
+                    |  Elements                 |
+| 47 | 61           | Rotate List               | Medium     |✅ Completed|
+| 48 | 328          | Odd Even Linked List      | Medium     |✅ Completed|
+| 49 | 1721         | Swapping Nodes in a Linked| Medium     |✅ Completed|
+                    |  List | 
+| 50 | 2095         | Delete the Middle Node of | Medium     |✅ Completed|
+                    |  a Linked List            |
+| 51 | 19           | Remove Nth Node From End  | Medium     |✅ Completed|
+                    |  of List                  |
+| 52 | 2            | Add Two Numbers           | Medium     |✅ Completed|
+| 54 | 82           | Remove Duplicates from    | Medium     |✅ Completed|
+                    |  Sorted List II           |
+| 55 | 237          | Delete Node in a Linked   |Medium      |✅ Completed|
+                    |  List                     |
+| 56 | 20           | Valid Parentheses         | Easy       |✅ Completed|
 | 57 | 232          | Implement Queue using Stacks | Easy | ✅ Completed |
 | 58 | 155          | Min Stack | Medium | ✅ Completed |
 | 59 | 150          | Evaluate Reverse Polish Notation | Medium | ✅ Completed |
@@ -88,20 +97,21 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 64 | 225          | Implement Stack using Queues | Easy | ✅ Completed |
 | 65 | 622          | Design Circular Queue | Medium | ✅ Completed |
 | 66 | 94           | Binary Tree Inorder Traversal | Easy | ✅ Completed |
-| 67 | 112 | Path Sum | Easy | ✅ Completed |
-| 68 | 111 | Minimum Depth of Binary Tree | Easy | ✅ Completed |
-| 69 | 404 | Sum of Left Leaves | Easy | ✅ Completed |
-| 70 | 543 | Diameter of Binary Tree | Easy | ✅ Completed |
-| 71 | 104 | Maximum Depth of Binary Tree | Easy | ✅ Completed |
-| 72 | 102 | Binary Tree Level Order Traversal | Medium | ✅ Completed |
-| 73 | 199 | Binary Tree Right Side View | Medium | ✅ Completed |
-| 74 | 114 | Flatten Binary Tree to Linked List | Medium | ✅ Completed |
-| 75 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | ✅ Completed |
-| 76 | 129 | Sum Root to Leaf Numbers | Medium | ✅ Completed |
-| 77 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | ✅ Completed |
-| 78 | 226 | Invert Binary Tree | Easy | ✅ Completed |
-| 79 | 100 | Same Tree | Easy | ✅ Completed |
-| 80 | 101 | Symmetric Tree | Easy | ✅ Completed |
+| 67 | 112          | Path Sum | Easy | ✅ Completed |
+| 68 | 111          | Minimum Depth of Binary Tree | Easy | ✅ Completed |
+| 69 | 404          | Sum of Left Leaves | Easy | ✅ Completed |
+| 70 | 543          | Diameter of Binary Tree | Easy | ✅ Completed |
+| 71 | 104          | Maximum Depth of Binary Tree | Easy | ✅ Completed |
+| 72 | 102          | Binary Tree Level Order Traversal | Medium | ✅ Completed |
+| 73 | 199          | Binary Tree Right Side View | Medium | ✅ Completed |
+| 74 | 114          | Flatten Binary Tree to Linked List | Medium | ✅ Completed |
+| 75 | 236          | Lowest Common Ancestor of a Binary Tree | Medium | ✅ Completed |
+| 76 | 129          | Sum Root to Leaf Numbers | Medium | ✅ Completed |
+| 77 | 103          | Binary Tree Zigzag Level Order Traversal | Medium | ✅ Completed |
+| 78 | 226          | Invert Binary Tree | Easy | ✅ Completed |
+| 79 | 100          | Same Tree | Easy | ✅ Completed |
+| 80 | 101          | Symmetric Tree | Easy | ✅ Completed |
+| 81 | 700 | Search in a Binary Search Tree | Easy | ✅ Completed |
 
 ## Total Progress
 
