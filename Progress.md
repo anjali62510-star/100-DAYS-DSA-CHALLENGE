@@ -112,6 +112,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 79 | 100          | Same Tree | Easy | ✅ Completed |
 | 80 | 101          | Symmetric Tree | Easy | ✅ Completed |
 | 81 | 700 | Search in a Binary Search Tree | Easy | ✅ Completed |
+| 82 | 701 | Insert into a Binary Search Tree | Medium | ✅ Completed |
 
 ## Total Progress
 
