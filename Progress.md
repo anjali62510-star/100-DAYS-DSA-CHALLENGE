@@ -114,6 +114,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 81 | 700 | Search in a Binary Search Tree | Easy | ✅ Completed |
 | 82 | 701 | Insert into a Binary Search Tree | Medium | ✅ Completed |
 | 83 | 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | ✅ Completed |
+| 84 | 450 | Delete Node in a BST | Medium | ✅ Completed |
 
 ## Total Progress
 
