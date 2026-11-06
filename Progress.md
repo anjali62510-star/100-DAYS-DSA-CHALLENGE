@@ -119,6 +119,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 86 | 230 | Kth Smallest Element in a BST | Medium | ✅ Completed |
 | 87 | 109 | Convert Sorted List to Binary Search Tree | Medium | ✅ Completed |
 | 88 | 938 | Range Sum of BST | Easy | ✅ Completed |
+| 89 | 242 | Valid Anagram | Easy | ✅ Completed |
 
 ## Total Progress
 
