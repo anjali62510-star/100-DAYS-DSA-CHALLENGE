@@ -120,6 +120,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 87 | 109 | Convert Sorted List to Binary Search Tree | Medium | ✅ Completed |
 | 88 | 938 | Range Sum of BST | Easy | ✅ Completed |
 | 89 | 242 | Valid Anagram | Easy | ✅ Completed |
+| 90 | 217 | Contains Duplicate | Easy | ✅ Completed |
 
 ## Total Progress
 
