@@ -122,6 +122,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 89 | 242          | Valid Anagram | Easy | ✅ Completed |
 | 90 | 217          | Contains Duplicate | Easy | ✅ Completed |
 | 91 | 169 | Majority Element | Easy | ✅ Completed |
+| 92 | 49 | Group Anagrams | Medium | ✅ Completed |
 
 
 
