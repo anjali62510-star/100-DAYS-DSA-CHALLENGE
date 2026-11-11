@@ -112,15 +112,18 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 79 | 100          | Same Tree | Easy | ✅ Completed |
 | 80 | 101          | Symmetric Tree | Easy | ✅ Completed |
 | 81 | 700          | Search in a Binary Search Tree | Easy | ✅ Completed |
-| 82 | 701 | Insert into a Binary Search Tree | Medium | ✅ Completed |
-| 83 | 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | ✅ Completed |
-| 84 | 450 | Delete Node in a BST | Medium | ✅ Completed |
-| 85 | 98 | Validate Binary Search Tree | Medium | ✅ Completed |
-| 86 | 230 | Kth Smallest Element in a BST | Medium | ✅ Completed |
-| 87 | 109 | Convert Sorted List to Binary Search Tree | Medium | ✅ Completed |
-| 88 | 938 | Range Sum of BST | Easy | ✅ Completed |
-| 89 | 242 | Valid Anagram | Easy | ✅ Completed |
-| 90 | 217 | Contains Duplicate | Easy | ✅ Completed |
+| 82 | 701          | Insert into a Binary Search Tree | Medium | ✅ Completed |
+| 83 | 235          | Lowest Common Ancestor of a Binary Search Tree | Medium | ✅ Completed |
+| 84 | 450          | Delete Node in a BST | Medium | ✅ Completed |
+| 85 | 98           | Validate Binary Search Tree | Medium | ✅ Completed |
+| 86 | 230          | Kth Smallest Element in a BST | Medium | ✅ Completed |
+| 87 | 109          | Convert Sorted List to Binary Search Tree | Medium | ✅ Completed |
+| 88 | 938          | Range Sum of BST | Easy | ✅ Completed |
+| 89 | 242          | Valid Anagram | Easy | ✅ Completed |
+| 90 | 217          | Contains Duplicate | Easy | ✅ Completed |
+| 91 | 169 | Majority Element | Easy | ✅ Completed |
+
+
 
 ## Total Progress
 
