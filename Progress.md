@@ -124,6 +124,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 91 | 169 | Majority Element | Easy | ✅ Completed |
 | 92 | 49 | Group Anagrams | Medium | ✅ Completed |
 | 93 | 1358 | Number of Substrings Containing All Three Characters | Medium | Sliding Window | ✅ Completed |
+| 94 | 191 | Number of 1 Bits | Easy | Bit Manipulation | ✅ Completed |
 
 
 
