@@ -127,6 +127,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 94 | 191 | Number of 1 Bits | Easy | Bit Manipulation | ✅ Completed |
 | 95 | 461 | Hamming Distance | Easy | Bit Manipulation | ✅ Completed |
 | 96 | 136 | Single Number | Easy | Bit Manipulation (XOR) | ✅ Completed |
+| 97 | 476 | Number Complement | Easy | Bit Manipulation | ✅ Completed |
 
 
 
