@@ -129,6 +129,7 @@ Solve DSA problems consistently for 100 days and improve problem-solving, coding
 | 96 | 136 | Single Number | Easy | Bit Manipulation (XOR) | ✅ Completed |
 | 97 | 476 | Number Complement | Easy | Bit Manipulation | ✅ Completed |
 | 98 | 997 | Find the Town Judge | Easy | Graph (In-Degree / Out-Degree) | ✅ Completed |
+| 99 | 1791 | Find Center of Star Graph | Easy | Graph | ✅ Completed |
 
 
 
